@@ -13,9 +13,9 @@ typeout_header: "yash gaitonde"
 %}
 {% include section-title.html words="about" %}
 
-I'm an undergraduate at the University of Michigan, interested in programming languages, user interfaces, and distributed systems. I'm a researcher at the [Future of Programming Lab](http://fplab.mplse.org/), working on [Hazel](http://hazel.org/), a structure editor and functional language that can typecheck, manipulate, and even run incomplete programs.
+I'm an undergraduate at the University of Michigan, interested in programming languages, user interfaces, and distributed systems.
 
-In the past, I took a gap year to join a startup as the second employee, worked at Procter and Gamble, and helped run a nonprofit.
+I'm a researcher at the [Future of Programming Lab](http://fplab.mplse.org/), working on [Hazel](http://hazel.org/), a structure editor and functional language that can typecheck, manipulate, and even run incomplete programs.
 
 In my free time, I enjoy playing guitar, listening to music, and skateboarding.
 
