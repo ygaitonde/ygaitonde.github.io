@@ -10,24 +10,21 @@ typeout_header: "yash gaitonde"
 {% include floated-image.html width="50px" side="left" src="headshot.jpeg"
     alt="A picture of Yash"
     width="50px" height="auto"
-    caption="chilling in Marin County"
 %}
 {% include section-title.html words="about" %}
 
-Hi, I'm Yash! I'm from Cincinnati, Ohio and I'm a student at the University of Michigan.
+I'm an undergraduate at the University of Michigan, interested in programming languages, user interfaces, and distributed systems. I'm a researcher at the [Future of Programming Lab](http://fplab.mplse.org/), working on [Hazel](http://hazel.org/), a structure editor and functional language that can typecheck, manipulate, and even run incomplete programs.
 
-I took a leave of absence last year and worked as a software engineer at [Jupiter (YC S19)](https://jupiter.co). I worked across [our stack](TODO), and among other things built a shoppable recipes marketplace that turned into a core feature and a mobile app that was adopted by >80% of our customers.
+In the past, I took a gap year to join a startup as the second employee, worked at Procter and Gamble, and helped run a nonprofit.
+
+In my free time, I enjoy playing guitar, listening to music, and skateboarding.
 
 &nbsp;
 
-I also took advantage of my time away from school to travel, and spent time living in San Francisco, Maine, and Miami.
-
-If you're considering a gap year, feel free to reach out and I would love to share more of my experience.
-
 {% include section-title.html words="resume/contact/presence" %}
 My resume can be found [here](https://docs.google.com/document/d/1yDMxnYdXhHxB0wkJbAY2Yu1w8vx5moi5fTFU5q6t5JU).
-You can reach me at gaitonde[@]umich[.]edu and I go by @ygaitonde on most sites, including [Github](https://github.com/ygaitonde) and [LinkedIn](https://www.linkedin.com/in/ygaitonde) 🤝
+You can reach me at gaitonde[at]umich[dot]edu and I go by @ygaitonde on most sites, including [Github](https://github.com/ygaitonde) and [LinkedIn](https://www.linkedin.com/in/ygaitonde).
 
 {% include section-title.html words="about this website" %}
 
-Credit for this site template goes to the homie [Eddie Hatfield](https://eddiehatfield.com).
+My friend [Eddie Hatfield](https://eddiehatfield.com) made the template for this site.
