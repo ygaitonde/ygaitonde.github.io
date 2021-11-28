@@ -13,16 +13,16 @@ typeout_header: "yash gaitonde"
 %}
 {% include section-title.html words="about" %}
 
-I'm an undergraduate at the University of Michigan, interested in programming languages, user interfaces, and distributed systems.
+I'm a student at the University of Michigan, interested in programming languages, user interfaces, and startups.
 
-I'm a researcher at the [Future of Programming Lab](http://fplab.mplse.org/), working on [Hazel](http://hazel.org/), a structure editor and functional language that can typecheck, manipulate, and even run incomplete programs.
+I'm a researcher at the [Future of Programming Lab](http://fplab.mplse.org/), working on [Hazel](http://hazel.org/), a structure editor and functional language that can typecheck and run incomplete programs.
 
 In my free time, I enjoy playing guitar, listening to music, and skateboarding.
 
 &nbsp;
 
 {% include section-title.html words="resume/contact/presence" %}
-My resume can be found [here](https://docs.google.com/document/d/1yDMxnYdXhHxB0wkJbAY2Yu1w8vx5moi5fTFU5q6t5JU).
+My resume can be found [here](https://drive.google.com/file/d/1rRGxBRmJKV0yLmYVj9iF2z0-kZaEt3BC/view?usp=sharing).
 You can reach me at gaitonde[at]umich[dot]edu and I go by @ygaitonde on most sites, including [Github](https://github.com/ygaitonde) and [LinkedIn](https://www.linkedin.com/in/ygaitonde).
 
 {% include section-title.html words="about this website" %}
