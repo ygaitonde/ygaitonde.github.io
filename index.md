@@ -11,19 +11,16 @@ typeout_header: "yash gaitonde"
     alt="A picture of Yash"
     width="50px" height="auto"
 %}
-{% include section-title.html words="about" %}
+{% include section-title.html words="about me" %}
 
-I'm a student at the University of Michigan, interested in programming languages, user interfaces, and startups.
+I'm an undergraduate student at the University of Michigan, and a member of the [Future of Programming Lab](http://fplab.mplse.org/), where I work on [Hazel](http://hazel.org/).
 
-I'm a researcher at the [Future of Programming Lab](http://fplab.mplse.org/), working on [Hazel](http://hazel.org/), a structure editor and functional language that can typecheck and run incomplete programs.
-
-In my free time, I enjoy playing guitar, listening to music, and skateboarding.
+In my free time, I enjoy [music of all sorts](https://open.spotify.com/user/8vy5jztitzgqw4u20p7m6gue9?si=10ba79e66dfd4448), [reading](https://www.goodreads.com/user/show/118012267-yash-gaitonde), and riding my bike.
 
 &nbsp;
 
-{% include section-title.html words="resume/contact/presence" %}
-My resume can be found [here](https://drive.google.com/file/d/1rRGxBRmJKV0yLmYVj9iF2z0-kZaEt3BC/view?usp=sharing).
-You can reach me at gaitonde[at]umich[dot]edu and I go by @ygaitonde on most sites, including [Github](https://github.com/ygaitonde) and [LinkedIn](https://www.linkedin.com/in/ygaitonde).
+{% include section-title.html words="presence" %}
+My email is lastname[at]umich[dot]edu and this is my [Github](https://github.com/ygaitonde).
 
 {% include section-title.html words="about this website" %}
 
