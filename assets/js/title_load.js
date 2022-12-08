@@ -18,5 +18,4 @@ window.onload = () => {
         setTimeout(setTitleAtStep(i), 
             delay * (i - 1) + Math.random() * deviation - deviation / 2);
     }
-
 }

@@ -2,10 +2,10 @@
 layout: base
 title: Homepage
 styles: [index]
-typeout_header: "yash gaitonde"
+typeout_header: "student, flâneur, amateur chef"
 ---
 
-{% include subtitle.html words="programmer in ann arbor/cincinnati" %}
+{% include subtitle.html words="san francisco" %}
 {% include navigation.html %}
 {% include floated-image.html width="50px" side="left" src="headshot.jpeg"
     alt="A picture of Yash"
